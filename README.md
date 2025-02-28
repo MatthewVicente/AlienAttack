@@ -1,6 +1,6 @@
 # Alien Attack
 
-This is a 2D spaceship shooter game developed with Godot 4 and GDScript. In the game, the player controls a spaceship and must destroy waves of enemies coming toward them. The project is built as part of my learning journey through the [Complete Godot 4 Game Developer 2D Online Course]([https://www.udemy.com/course/complete-godot-4-game-developer-2d/](https://www.udemy.com/course/complete-godot-4-game-developer-2d-online-course/), where I practice GDScript and game development principles.
+This is a 2D spaceship shooter game developed with Godot 4 and GDScript. In the game, the player controls a spaceship and must destroy waves of enemies coming toward them. The project is built as part of my learning journey through the [Complete Godot 4 Game Developer 2D Online Course](https://www.udemy.com/course/complete-godot-4-game-developer-2d-online-course/), where I practice GDScript and game development principles.
 
 ## Table of Contents
 - [Game Overview](#game-overview)
