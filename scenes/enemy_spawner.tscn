@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://cwsvcyjqg5kte"]
 
-[ext_resource type="Script" path="res://scripts/enemy_spawner.gd" id="1_qrnkm"]
+[ext_resource type="Script" uid="uid://b57teohx1mpba" path="res://scripts/enemy_spawner.gd" id="1_qrnkm"]
 
 [node name="EnemySpawner" type="Node2D"]
 script = ExtResource("1_qrnkm")
@@ -28,3 +28,5 @@ position = Vector2(1350, 670)
 [node name="Timer" type="Timer" parent="."]
 wait_time = 2.0
 autostart = true
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
