@@ -9,9 +9,11 @@ font = ExtResource("1_ahhtf")
 font_size = 48
 
 [sub_resource type="LabelSettings" id="LabelSettings_6fi6k"]
+font = ExtResource("1_ahhtf")
 font_size = 32
 
 [sub_resource type="LabelSettings" id="LabelSettings_uo2fv"]
+font = ExtResource("1_ahhtf")
 font_size = 52
 
 [node name="HUD" type="Control"]
